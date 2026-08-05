@@ -1,1 +1,2 @@
-Upload the complete folder contents to your GitHub repository, preserving css/, js/, and images/ folders.
+# Croreon Website
+Upload this folder to GitHub Pages.
