@@ -1,0 +1,1 @@
+document.querySelectorAll('nav a').forEach(a=>a.addEventListener('mouseover',()=>a.style.color='#39B54A'));
