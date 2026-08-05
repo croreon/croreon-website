@@ -1,2 +1,2 @@
-# croreon-website
-Official Croreon website
+# Croreon Website
+Upload this folder to GitHub Pages.
